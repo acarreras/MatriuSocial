@@ -25,6 +25,9 @@ Hi ha dos tipus de ciutadans a la graella: els blancs i els negres. Cada ciutad�
 
 Aquestes dues regles bàsiques evidencien la forma com es generen, a llarg termini, illes urbanes i altres estructures de segregació.
 
+regles i +info:
+http://nifty.stanford.edu/2014/mccown-schelling-model-segregation
+
 ### Model del votant
 ![voter](/images/votant_collage.jpg)
 
@@ -35,6 +38,11 @@ Cada individu de la graella vota Sí o vota No. Cada individu té 4 veïns: a da
 4. Un votant amb 2 veïns d’opinió contrària i 2 veïns d’igual opinió és força probable que canviï el vot
 
 Aquestes quatre regles bàsiques esquematitzen influències i dibuixen la manera com es conforma la nostra opinió.
+
+regles i +info:
+https://en.wikipedia.org/wiki/Contact_process_%28mathematics%29#Voter_model
+https://www.math.utah.edu/~rbutler/votermodel/index.html
+https://services.math.duke.edu/~rtd/survey/survc5.html
 
 ### Joc de la Vida
 ![game of life](/images/game_of_life_collage.jpg)
@@ -47,3 +55,6 @@ Cada cèl·lula de la graella està viva o morta. Cada cèl.lula té 4 veïnes: 
 4. Una cèl·lula viva amb més de 3 veïns vius, mor
 
 Aquestes quatre regles bàsiques representen les condicions de reproducció, mort per malnutrició, existència sostenible i mort per sobrepoblació.
+
+regles i +info:
+https://es.wikipedia.org/wiki/Juego_de_la_vida
